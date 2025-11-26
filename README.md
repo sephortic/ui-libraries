@@ -14,3 +14,6 @@ https://github.com/sephortic/ui-libraries/tree/cfa26256793de5880eeda38958e7403cc
 
 https://github.com/sephortic/ui-libraries/tree/751511594dd4837ef9cb33d9d95a0989f63cb4c6/octohook
 ![images](images/octohook.png)
+
+https://github.com/sephortic/ui-libraries/tree/4b970ae5a66ef24463a851152cff785d5df2f546/thugsense
+![images](images/image (19).png)
