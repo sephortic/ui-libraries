@@ -17,3 +17,6 @@ https://github.com/sephortic/ui-libraries/tree/751511594dd4837ef9cb33d9d95a0989f
 
 https://github.com/sephortic/ui-libraries/tree/4b970ae5a66ef24463a851152cff785d5df2f546/thugsense
 ![images](images/thugsense.png)
+
+https://github.com/sephortic/ui-libraries/tree/c01a51208ae193497ec5c2b5197f8a3bd136b7a2/bbot
+![images](images/bbotv3.png)
