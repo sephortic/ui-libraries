@@ -20,3 +20,6 @@ https://github.com/sephortic/ui-libraries/tree/4b970ae5a66ef24463a851152cff785d5
 
 https://github.com/sephortic/ui-libraries/tree/c01a51208ae193497ec5c2b5197f8a3bd136b7a2/bbot
 ![images](images/bbotv3.png)
+
+https://github.com/sephortic/ui-libraries/tree/6782f933c0ec0c87bdbecd20656e7c1edb0bc3a2/odyssey
+![images](images/odyssey.png)
